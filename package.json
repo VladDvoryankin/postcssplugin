@@ -1,0 +1,23 @@
+{
+  "name": "post-css-plugin",
+  "version": "1.0.0",
+  "description": "no desc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VladDvoryankin/postcssplugin.git"
+  },
+  "author": "vlad.dvoryankin@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VladDvoryankin/postcssplugin/issues"
+  },
+  "dependencies": {
+    "postcss-cli": "latest",
+    "parse-color": "latest"
+  },
+  "homepage": "https://github.com/VladDvoryankin/postcssplugin#readme"
+}

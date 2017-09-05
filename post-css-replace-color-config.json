@@ -1,0 +1,30 @@
+{
+  "from": "black",
+  "to": "red",
+  "targetProps": [
+    "background-color",
+    "background",
+    "border",
+    "border-bottom",
+    "border-bottom-color",
+    "border-color",
+    "border-left",
+    "border-left-color",
+    "border-right",
+    "border-right-color",
+    "border-top",
+    "border-top-color",
+    "box-shadow",
+    "color",
+    "column-rule",
+    "column-rule-color",
+    "filter",
+    "opacity",
+    "outline-color",
+    "outline",
+    "text-decoration",
+    "text-decoration-color",
+    "text-shadow",
+    "fill"
+  ]
+}
