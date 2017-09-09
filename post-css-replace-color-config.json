@@ -1,6 +1,6 @@
 {
   "from": "black",
-  "to": "red",
+  "to": "transparent",
   "targetProps": [
     "background-color",
     "background",

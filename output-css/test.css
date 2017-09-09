@@ -1,23 +1,24 @@
 body {
 	color: transparent;
-	background: red;
+	background: transparent;
 }
 
 #a {
-	color: #cc0000;
-	border: solid 1px rgba(255, 0, 0, 0.4);
+	color: #cccccc;
+	border: solid 1px transparent;
 }
 
 .p {
 	color: #ccc;
-	fill: #ff0000;
-    border: solid 1px #f00;
-	background: rgb(255, 0, 0) url('') 0 0 no-repeat;
+	fill: transparent;
+    border: solid 1px transparent;
+	background: rgb(0,50,0) url('') 0 0 no-repeat;
 }
 
 @media screen and (min-width: 480px) {
     body {
 		color: yellow;
-        background-color: hsla(0, 100%, 50%, 0.5);
+        background-color: transparent;
+		border: solid transparent 1px;
     }
 }
